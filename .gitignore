@@ -132,3 +132,4 @@ dataset
 checkpoints
 data
 .vscode
+**/__pycache__
